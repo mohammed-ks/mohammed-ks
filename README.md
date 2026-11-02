@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mohammed Fardeen 👋
 
-<!--
-**mohammed-ks/mohammed-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Engineer | Linux & Infrastructure | Application Development
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in Linux administration, infrastructure engineering, databases, and application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with servers, troubleshooting application environments, and learning how reliable systems are built and maintained.
+
+### 💻 Experience & Technologies
+
+- **Linux & Systems:** Ubuntu Server, Linux, SSH, server setup and troubleshooting
+- **Version Control:** Git, GitHub
+- **Databases:** PostgreSQL, SQL
+- **Application Development:** Odoo, Flutter, Dart, Python (Basic)
+- **APIs:** REST APIs, HTTP, JSON
+- **Platforms:** Moodle, Android and iOS application release workflows
+
+### 🚀 Currently Learning
+
+- Docker and containerization
+- Jenkins and CI/CD
+- AWS and cloud infrastructure
+- Prometheus and Grafana
+- Networking and Linux system administration
+
+### 🎯 Career Interests
+
+DevOps Engineering | Cloud Infrastructure | Linux Administration | Platform Engineering | Database Operations
+
+### 📫 Connect With Me
+
+- **GitHub:** [mohammed-ks](https://github.com/mohammed-ks)
+- **Email:** ksmohammedfardeen@gmail.com
+
+---
+
+*Learning continuously, building practical projects, and improving one step at a time.*
